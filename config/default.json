@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://media123:media123@stomedia.lyqfg.mongodb.net/stomedia?retryWrites=true&w=majority",
+  "jwtSecret": "dsrsecretetoekn",
+  "githubClientId": "c4e62d65faeb48e32b07",
+  "githubClientSecret": "63e907e3bf7dab16f3d7e9d68245f52d9950bc94"
+}
+
